@@ -1,0 +1,1 @@
+web: gunicorn socialWork.wsgi --log-file -
