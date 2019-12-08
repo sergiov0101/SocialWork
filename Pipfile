@@ -11,6 +11,9 @@ mysqlclient = "*"
 gunicorn = "*"
 python-decouple = "*"
 whitenoise = "*"
+dj-database-url = "*"
+django-toolkit = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.7"
